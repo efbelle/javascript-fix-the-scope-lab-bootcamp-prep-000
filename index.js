@@ -29,7 +29,7 @@ function add2(n) {
   }
 }
 
-console.log
+console.log(funkyFunction()())
 
 
 
